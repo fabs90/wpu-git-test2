@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cobain fetch ygy</title>
 </head>
+<link rel="stylesheet" href="style.css">
 <body>
     <h1>Login Form</h1>
     <form action="" method="post">
